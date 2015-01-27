@@ -3,28 +3,39 @@ Chicago Fire Chili
 
 Ingredients
 -----------
-- 2 425g cans of diced tomatoes
-- 2 425g cans of bean mix (black, pinto, kidney)
-- 3 tbsp olive oil
-- 1 clove garlic, minced or pressed
-- 1/2 red bell pepper, chopped
-- 1 onion, diced
-- 2 Thai chili peppers, diced (retain all the seeds for maximum fire)
-- 1 tsp ground coriander
-- 1/2 tsp ground cumin
-- 1/2 tsp chili powder
-- 1/2 tsp oregano
-- 1 bay leaf
-- juice of 1 lemon
-- pinch of coffee grinds (shhh, secret ingredient)
-- salt / pepper
-- half a beer (dark ale)
+- 1 15oz (425g) can of diced tomatoes, unsalted
+- 3 15oz (425g) cans of chili beans (black, pinto, kidney)
+- 2-3 garlic cloves
+- 1 red bell pepper
+- 1 onion
+- half a beer (stout or dark ale)
+- beef or chicken broth as needed (at least a cup)
+- 1 pound of ground bison (or grass fed ground beef)
+- 2 Thai chili peppers
+- 1-2 bay leaves
+- juice of 1/2 lemon
+- chili powder
+- spices of your choosing
+- salt, pepper
 
 Instructions
 ------------
-1. Prepare a wok with the olive oil and saute the onion for about a minute.
-2. Add the beans and chopped tomatoes, keep heat on medium, stir well.
-3. Add the lemon juice, bay leaf, beer, spices, chili, bell pepper, garlic and bring to a boil then lower heat.
-4. Let it all blend together for a few minutes then add the coffee grinds and simmer for about 30 minutes, stirring often.  Add salt and pepper to taste.  If it gets too dry just add a little water.
+- Chop the onion and bell pepper into squares, dice the garlic, dice the thai chili peppers.
+- Completely drain the beans in a strainer.
+- Fry the onions over medium heat in a large pot until soft.
+- Add spices of your choosing. I've been really liking the
+  `Sunny Oaxaca Ancho-Coffee Rub <http://www.thespicehouse.com/spices/sunny-oaxaca-salt-free-ancho-coffee-rub>`_
+  but you could also use freshly ground cumin and coriander.
+- Add garlic and cook briefly until fragrant.
+- Stir in the bell peppers and mix until slightly soft.
+- Add the tomatoes and the drained beans and use a little broth to cover.
+- Add the beer, salt, pepper, bay leaves, chili powder, thai chili peppers, and the lemon juice.
+- Bring it to a boil and then simmer with a lid on for about an hour. Stir often
+  so it doesn't stick to the bottom. Use the broth to keep the liquid up if
+  needed.
+- Take the lid off and boil down the liquid until it starts to thicken.
+- This would be a good time to taste it and make adjustments
+- Add the ground beef, stir, and keep cooking until done.
+- Keep boiling until it's as thick as you want it.
 
-Serves 2 - 3
+Serves 6 - 8
