@@ -34,7 +34,7 @@ Instructions
   so it doesn't stick to the bottom. Use the broth to keep the liquid up if
   needed.
 - While it's simmering, completely drain the beans in a strainer and rinse.
-- Add the beans and cook for about 5 minutes
+- When you think your base is ready, add the beans and cook for about 5 minutes
 - This would be a good time to taste it and make adjustments
 - Add the ground beef, stirring continuously, and keep cooking until done.
 - Keep boiling and stirring until it's as thick as you want it. If it gets too
