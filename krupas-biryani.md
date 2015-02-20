@@ -43,6 +43,8 @@ Ingredients to cook rice:
 * 1 1/2 tbsps salt
 * water as required
 
+Directions:
+
 * Marinate chicken with the ingredients called for 'marination' along with biryani masala pwd. Keep aside for 4 hrs or a min of 1 1/2 hrs. While the chicken is marinating, work on the rest of the preparation.
 * Cook basmati rice in lots of water along with bay leaves, cloves, cinnamon, cardamom, marathi mogga, elaichi, oil, salt till its half cooked. Strain the water and spread the rice on a large wide plate. Allow to cool. If you take a raice grain and apply pressure with your fingers, it should easily crack with a crunch.
 * Heat 1 tbsp oil + 1 tbsp ghee in a vessel, add sliced onions, saute for 8-10 mts till caramelized. Remove and keep aside.
