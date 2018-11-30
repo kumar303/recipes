@@ -19,7 +19,7 @@ Instructions
  2. Melt butter over medium-low heat in a large stock pot. Cook onions with salt and pepper until soft, about 10 minutes.
  3. Add ginger and cook an additional 3 minutes.
  4. Add yams and chicken stock. Bring to a boil, reduce to a simmer and cook uncovered for 10 minutes.
- 5. Puree in a blender (or use an emersion blender in the pot) until smooth.
+ 5. Puree in a blender (or use an immersion blender in the pot) until smooth.
  6. Optional: pass the soup through a strainer. This is time consuming but the soup ends up more velvety and you won't get any ginger strings.
  7. Stir in the heavy cream. Bring to a boil and remove from heat. You might want to start with a portion of the cream and taste it. Too much cream will kill the ginger kick which is essential.
  8. Stir in lime juice, adjust salt, and serve immediately.
