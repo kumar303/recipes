@@ -11,7 +11,7 @@
 - 1 cup fresh flat-leaf parsley leaves
 - 1 cup fresh cilantro leaves and tender stems, plus more for serving
 - 1 cup fresh mint leaves
-- 1 teaspoon Malden or Kosher salt
+- 4 teaspoon Malden or Kosher salt
 - freshly ground pepper
 - ¼ cup plain Greek yogurt
 - ¼ cup tahini
