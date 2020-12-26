@@ -23,7 +23,7 @@
 - Mince onion, garlic, parsley, cilantro, and mint.
 - Preheat oven to 450F
 - Combine the ground spices, everything you minced, ground lamb, salt, and pepper in a bowl
-- Form mixture into balls, place evenly on an ungreased banking sheet, and flatten the balls
+- Form mixture into balls, place evenly on an ungreased baking sheet, and flatten the balls
 - Bake for 15 minutes or until done in the middle
 - Broil for 2 minutes until blackened on top
 - Mix the tahini, yogurt, and a ¼ cup of water with some salt to make the sauce
