@@ -23,8 +23,8 @@ Instructions
 - Fry the onions over medium heat in a large pot until soft.
 - Stir in the Oaxacan Ancho Coffee Rub.
 - Add garlic and cook briefly until fragrant.
-- Mix in the tomatoes (including the liquid), beer, salt, pepper, bell peppers,
-  bay leaves, chili powder, thai chili peppers, the lemon juice, add a pinch of coffee,
+- Mix in the tomatoes (including the liquid), beer, bell peppers,
+  bay leaves, Thai chili peppers, lemon juice, a pinch of coffee,
   and cover with broth.
 - Bring it to a boil and then simmer. This is the base and you can cook it for
   as long as you want to get the right flavor. Stir often
